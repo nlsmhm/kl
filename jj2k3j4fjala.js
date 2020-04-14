@@ -1,0 +1,1 @@
+console.log('lock file active');
